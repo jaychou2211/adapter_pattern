@@ -1,0 +1,6 @@
+A: B C D K M
+B: A D C
+C: A G K M D
+D: A B K P F
+E: J L
+F: Z
